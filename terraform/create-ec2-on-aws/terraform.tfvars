@@ -1,0 +1,6 @@
+vpc_cider_block = "10.0.0.0/16"
+subnet_cider_block = "10.0.10.0/24"
+avail_zone = "us-east-1a"
+env_prefix = "dev"
+my_ip = "203.96.240.26/30"
+instance_type = "t2.micro"
